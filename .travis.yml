@@ -7,7 +7,7 @@ services:
   - postgresql
 before_install:
   - gem install bundler -v 1.17.3
-  - gem insta¡l rake
+  - gem install rake
 before_script:
   - cd spec/etl_app
   - bundle exec rake db:create
