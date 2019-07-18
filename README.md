@@ -2,7 +2,7 @@
 
 Extract, transform and load process with ruby.
 
-[![Build Status](https://travis-ci.org/armando1339/etl_processor.svg?branch=master)](https://travis-ci.org/armando1339/etl_processor)
+[![Build Status](https://travis-ci.org/armando1339/etl_processor.svg?branch=master)](https://travis-ci.org/armando1339/etl_processor) [![Coverage Status](https://coveralls.io/repos/github/armando1339/etl_processor/badge.svg?branch=master)](https://coveralls.io/github/armando1339/etl_processor?branch=master)
 
 ## Usage
 
