@@ -1,0 +1,8 @@
+.bundle/
+log/*.log
+pkg/
+spec/etl_app/log/*.log
+spec/etl_app/node_modules/
+spec/etl_app/yarn-error.log
+spec/etl_app/storage/
+spec/etl_app/tmp/
