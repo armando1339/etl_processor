@@ -6,3 +6,5 @@ spec/etl_app/node_modules/
 spec/etl_app/yarn-error.log
 spec/etl_app/storage/
 spec/etl_app/tmp/
+/coverage.data
+/coverage/
