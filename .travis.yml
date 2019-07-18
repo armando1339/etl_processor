@@ -3,6 +3,8 @@ language: ruby
 cache: bundler
 rvm:
   - 2.6.3
+services:
+  - postgresql
 before_install:
   - gem install bundler -v 1.17.3
 before_script:
