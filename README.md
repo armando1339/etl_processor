@@ -1,4 +1,4 @@
-# EtlProcessor
+# EtlProcessor (just practicing).
 
 Extract, transform and load process with ruby.
 
